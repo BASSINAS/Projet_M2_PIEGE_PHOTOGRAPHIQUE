@@ -1,0 +1,40 @@
+http://espace-raspberry-francais.fr/Composants/Utilisation-Camera-sur-Raspberry-Pi-Francais/
+https://www.natural-solutions.eu/blog/2015/7/9/un-nichoir-connect-raspberrypi-ifeedbird
+http://www.v-labs.fr/article/tuto-capteur-de-mouvements-photos-sur-arduino-raspberry-b
+https://www.raspberry-pi.ovh/blog/index.php?la-surveillance-video-avec-un-raspberry
+http://socialcompare.com/fr/comparison/raspberrypi-models-comparison
+https://www.framboise314.fr/la-saga-blink-un-raspberry-pour-faire-clignoter-une-led/
+https://www.framboise314.fr/le-bouton-poussoir-un-composant-banal-o-combien-etonnant/
+http://npoulain.fr/raspberryPi-led-poussoir
+http://espace-raspberry-francais.fr/Composants/Executer-script-pression-bouton-sur-Raspberry-Francais/
+
+
+
+informations complementaires sur le raspberry Pi 4
+https://www.framboise314.fr/raspberry-pi-4-4-nouveautes-qui-vont-vous-faire-craquer/
+
+
+        comparaison des processeur des raspberry Pi
+https://deusyss.developpez.com/tutoriels/RaspberryPi/PythonEtLeGpio/
+
+   	- systeme d'explotation libre 
+   	- processeur ARM Cortex A72
+   	- multicoeurs 4 coeurs -64 bits à 1.5GHz
+   	- GPU broadcom videocore VI avec 2 sorties HDMI 4k
+	- memoire ram 1.2 ou 4 Go permet de choisir la carte qu'on veux utiliser 
+        - deux ports usb 3.0 et deux ports usb 2.0
+	- carte sd qui est le disque dur
+	- un port ethernet giga bit parce qu'il ont interger un bus pci express entre les circuit usb et le processeurs 
+	- port camera CSI 
+        - port afficheur DSI
+	- wifi et bluethooth 5.0
+	- 40 broches d'entree / sorties 
+	- connecteur POE pour alimenttion de la carte par le reseau 
+	- alimentation usb-c 5v/3A (pas de chargeur de tel)
+	- format carte de credit 
+	- poids de 45g
+	- prix 40 euros pour 1 Go
+	- 2Go 8 ou 10 euros de plus 
+	- 4Go 8 ou 10 euros de plus.
+
+
